@@ -1,0 +1,1 @@
+GtkAssistant 是一个辅助的顶层，这里 PHP-GTK 2 貌似有bug，文档待完善。
