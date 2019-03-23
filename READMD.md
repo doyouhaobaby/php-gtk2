@@ -1,3 +1,6 @@
+![](php-gtk2_for_php55.jpg)
+
+
 * [前言](前言.md)
 * [安装打包发行](base.md)
     * [安装方法](install.md)
